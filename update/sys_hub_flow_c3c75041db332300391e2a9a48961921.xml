@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>false</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Flow to test custom action.</description>
+        <internal_name>action_test_flow</internal_name>
+        <label_cache>[{"name":"7acf7a53-5337-45c1-9206-800c63fa3bd8.property_value","label":"1➛Property value","reference_display":"Property value","type":"string","base_type":"string"},{"name":"3af92c78-643c-4685-8545-5b0ac0b367c9.property_value","label":"1➛Property value","reference_display":"Property value","type":"string","base_type":"string"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Action Test Flow</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>true</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-21 08:49:30</sys_created_on>
+        <sys_id>c3c75041db332300391e2a9a48961921</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Action Test Flow</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_276093_needit_sp">97165041db332300391e2a9a48961930</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">97165041db332300391e2a9a48961930</sys_scope>
+        <sys_update_name>sys_hub_flow_c3c75041db332300391e2a9a48961921</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-21 15:29:27</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=c3c75041db332300391e2a9a48961921"/>
+    <sys_variable_value action="delete_multiple" query="document_key=c3c75041db332300391e2a9a48961921"/>
+</record_update>
